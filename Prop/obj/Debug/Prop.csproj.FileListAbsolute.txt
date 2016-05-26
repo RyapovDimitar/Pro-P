@@ -1,0 +1,50 @@
+D:\C#\Prop\Prop\bin\Debug\Prop.exe.config
+D:\C#\Prop\Prop\obj\Debug\Prop.csprojResolveAssemblyReference.cache
+D:\C#\Prop\Prop\obj\Debug\Prop.Form1.resources
+D:\C#\Prop\Prop\obj\Debug\Prop.Properties.Resources.resources
+D:\C#\Prop\Prop\obj\Debug\Prop.csproj.GenerateResource.Cache
+D:\C#\Prop\Prop\bin\Debug\Prop.exe
+D:\C#\Prop\Prop\bin\Debug\Prop.pdb
+D:\C#\Prop\Prop\obj\Debug\Prop.exe
+D:\C#\Prop\Prop\obj\Debug\Prop.pdb
+D:\fontys\year 1\semester2\pro-p\Application\Prop\Prop\bin\Debug\Prop.exe.config
+D:\fontys\year 1\semester2\pro-p\Application\Prop\Prop\obj\Debug\Prop.exe
+D:\fontys\year 1\semester2\pro-p\Application\Prop\Prop\obj\Debug\Prop.pdb
+D:\fontys\year 1\semester2\pro-p\Application\Prop\Prop\bin\Debug\Prop.exe
+D:\fontys\year 1\semester2\pro-p\Application\Prop\Prop\bin\Debug\Prop.pdb
+D:\fontys\year 1\semester2\pro-p\Application\Prop\Prop\bin\Debug\MySql.Data.dll
+D:\fontys\year 1\semester2\pro-p\Application\Prop\Prop\obj\Debug\Prop.csprojResolveAssemblyReference.cache
+D:\fontys\year 1\semester2\pro-p\Application\Prop\Prop\obj\Debug\Prop.Form1.resources
+D:\fontys\year 1\semester2\pro-p\Application\Prop\Prop\obj\Debug\Prop.Properties.Resources.resources
+D:\fontys\year 1\semester2\pro-p\Application\Prop\Prop\obj\Debug\Prop.csproj.GenerateResource.Cache
+C:\Users\Lubomir\Desktop\ProP\Prop\bin\Debug\Prop.exe.config
+C:\Users\Lubomir\Desktop\ProP\Prop\obj\Debug\Prop.exe
+C:\Users\Lubomir\Desktop\ProP\Prop\obj\Debug\Prop.pdb
+C:\Users\Lubomir\Desktop\ProP\Prop\bin\Debug\Prop.exe
+C:\Users\Lubomir\Desktop\ProP\Prop\bin\Debug\Prop.pdb
+C:\Users\Lubomir\Desktop\ProP\Prop\bin\Debug\MySql.Data.dll
+C:\Users\Lubomir\Desktop\ProP\Prop\bin\Debug\Phidget21.NET.dll
+C:\Users\Lubomir\Desktop\ProP\Prop\bin\Debug\Phidget21.NET.xml
+C:\Users\Lubomir\Desktop\ProP\Prop\obj\Debug\Prop.csprojResolveAssemblyReference.cache
+C:\Users\Lubomir\Desktop\ProP\Prop\obj\Debug\Prop.Form1.resources
+C:\Users\Lubomir\Desktop\ProP\Prop\obj\Debug\Prop.Properties.Resources.resources
+C:\Users\Lubomir\Desktop\ProP\Prop\obj\Debug\Prop.csproj.GenerateResource.Cache
+D:\fontys\year 1\semester2\pro-p\Application\Lyubo\Prop\bin\Debug\Prop.exe.config
+D:\fontys\year 1\semester2\pro-p\Application\Lyubo\Prop\obj\Debug\Prop.exe
+D:\fontys\year 1\semester2\pro-p\Application\Lyubo\Prop\obj\Debug\Prop.pdb
+D:\fontys\year 1\semester2\pro-p\Application\Lyubo\Prop\bin\Debug\Prop.exe
+D:\fontys\year 1\semester2\pro-p\Application\Lyubo\Prop\bin\Debug\Prop.pdb
+D:\fontys\year 1\semester2\pro-p\Application\Lyubo\Prop\bin\Debug\MySql.Data.dll
+D:\fontys\year 1\semester2\pro-p\Application\Lyubo\Prop\obj\Debug\Prop.csprojResolveAssemblyReference.cache
+D:\fontys\year 1\semester2\pro-p\Application\Lyubo\Prop\obj\Debug\Prop.Form1.resources
+D:\fontys\year 1\semester2\pro-p\Application\Lyubo\Prop\obj\Debug\Prop.Properties.Resources.resources
+D:\fontys\year 1\semester2\pro-p\Application\Lyubo\Prop\obj\Debug\Prop.csproj.GenerateResource.Cache
+D:\fontys\year 1\semester2\pro-p\Application\Dimitar\Entrance\Prop\bin\Debug\Prop.exe.config
+D:\fontys\year 1\semester2\pro-p\Application\Dimitar\Entrance\Prop\obj\Debug\Prop.exe
+D:\fontys\year 1\semester2\pro-p\Application\Dimitar\Entrance\Prop\obj\Debug\Prop.pdb
+D:\fontys\year 1\semester2\pro-p\Application\Dimitar\Entrance\Prop\bin\Debug\Prop.exe
+D:\fontys\year 1\semester2\pro-p\Application\Dimitar\Entrance\Prop\bin\Debug\Prop.pdb
+D:\fontys\year 1\semester2\pro-p\Application\Dimitar\Entrance\Prop\obj\Debug\Prop.csprojResolveAssemblyReference.cache
+D:\fontys\year 1\semester2\pro-p\Application\Dimitar\Entrance\Prop\obj\Debug\Prop.Form1.resources
+D:\fontys\year 1\semester2\pro-p\Application\Dimitar\Entrance\Prop\obj\Debug\Prop.Properties.Resources.resources
+D:\fontys\year 1\semester2\pro-p\Application\Dimitar\Entrance\Prop\obj\Debug\Prop.csproj.GenerateResource.Cache
