@@ -1,0 +1,9 @@
+D:\C#\Prop\Prop\bin\Release\Prop.exe.config
+D:\C#\Prop\Prop\obj\Release\Prop.Form1.resources
+D:\C#\Prop\Prop\obj\Release\Prop.Properties.Resources.resources
+D:\C#\Prop\Prop\obj\Release\Prop.csproj.GenerateResource.Cache
+D:\C#\Prop\Prop\bin\Release\Prop.exe
+D:\C#\Prop\Prop\bin\Release\Prop.pdb
+D:\C#\Prop\Prop\obj\Release\Prop.exe
+D:\C#\Prop\Prop\obj\Release\Prop.pdb
+D:\C#\Prop\Prop\obj\Release\Prop.csprojResolveAssemblyReference.cache
